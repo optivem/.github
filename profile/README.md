@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome 👋
+
+Read [Optivem Journal](https://journal.optivem.com/)
 
 <!--
 
