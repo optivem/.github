@@ -11,5 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-- [ATDD Accelerator Template](https://github.com/optivem/atdd-accelerator-template)
+- [ATDD Accelerator Template (Multi Repo)](https://github.com/optivem/atdd-accelerator-template-multi-repo)
+- [ATDD Accelerator Template (Mono Repo)](https://github.com/optivem/atdd-accelerator-template-mono-repo)
 - [Optivem Journal](https://journal.optivem.com/)
